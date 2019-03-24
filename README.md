@@ -1,0 +1,1 @@
+This is Lawrence Great's first git project!
